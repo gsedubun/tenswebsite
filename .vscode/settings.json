@@ -1,0 +1,8 @@
+{
+    "python.venvPath": "..\\env",
+    "python.linting.enabled": true,
+    "python.autoComplete.extraPaths": [
+        "D:\\GADAEL\\pywebsites\\env\\Scripts\\python.exe",
+        "D:\\GADAEL\\pywebsites\\env\\Scripts\\django-admin.exe"
+    ]
+}
